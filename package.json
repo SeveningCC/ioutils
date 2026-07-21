@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of utility functions for file and directory operations.",
   "dependencies": [],
-  "files": [
+  "bin": [
     "ioutils.lua"
   ]
 }
